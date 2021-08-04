@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aswin Raj. Just a guy with huge dreams to accomplish, who codes for a living and watches sitcoms to keem myself busy.
+- 👋 Hi, I’m Aswin Raj. Just a guy with huge dreams to accomplish, who codes for a living and watches sitcoms to keep me busy.
 - 👀 I’m interested in MERN stack development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on any reactJS projects
