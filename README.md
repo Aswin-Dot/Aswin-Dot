@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Aswin Raj. Just a guy with huge dreams to accomplish, who codes for a living and watches sitcoms to keep me busy.
-- 👀 I’m interested in MERN stack development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on any reactJS projects
-- 📫 You can reach me through mail or my insta account - aswincse10@gmail.com || https://www.instagram.com/l_a.s.w.i.n_l/
+I'm a Top-Rated full-stack Web/App developer in Upwork who specializes in MERN stack with ReactJs for building functional web applications and React Native for hybrid mobile applications.
+
+A strong engineering professional who loves reading books and constantly working on updating myself. I'm a self-taught programmer with a demonstrated history of working experience in development with a keen knowledge of producing creative and responsive web/mobile applications.
 
 <!---
 Aswin-Dot/Aswin-Dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
