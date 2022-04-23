@@ -2,7 +2,7 @@
 
 A strong engineering professional who loves reading books and constantly working on React & React native based frameworks. I'm a self-taught programmer with a demonstrated history of working experience in development with a keen knowledge of producing creative and responsive web/mobile applications.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aswin-Dot&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aswin-Dot&theme=dark)](https://git.io/streak-stats) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aswin-Dot&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
