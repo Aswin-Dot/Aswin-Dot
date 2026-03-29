@@ -15,7 +15,7 @@ I'm a **product engineer** — I think before I build, and build what I think. 5
 | [startboard](https://github.com/Aswin-Dot/startboard) | The 4 metrics that matter for early-stage consumer apps | React · Recharts |
 | [prd-to-tasks](https://github.com/Aswin-Dot/prd-to-tasks) | PRD in → structured dev tasks out, powered by Claude | React · Anthropic API |
 | [screenshotter](https://github.com/Aswin-Dot/screenshotter) | App Store screenshots without Figma | React · Canvas API · Claude Vision |
-| arcade-games](https://github.com/Aswin-Dot/arcade-games) | 15 mobile games, one codebase, each live on the App Store | React Native · Expo · EAS |
+| [arcade-games](https://github.com/Aswin-Dot/arcade-games) | 15 mobile games, one codebase, each live on the App Store | React Native · Expo · EAS |
 
 ---
 
