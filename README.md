@@ -3,7 +3,7 @@
 Most engineers build what they're told. Most PMs spec what they can't build.  
 I've always been uncomfortable being either of those people.
 
-I'm a **product engineer** — I think before I build, and build what I think. 5 years shipping mobile apps, 2 years running my own startup end to end: code, product, ops, the works.
+I'm a **product engineer** — I think before I build, and build what I think. 5 years shipping mobile apps, 2 years running my own startup end to end: code, product, ops, and everything in between.
 
 ---
 
@@ -23,7 +23,7 @@ I'm a **product engineer** — I think before I build, and build what I think. 5
 
 > There's no point building something well if you haven't figured out why someone needs it.
 
-At Pikvita I was deep in the code when I noticed users dropping off on screens designed to convert them. Mixpanel wasn't making sense. We stopped, went back to users, rebuilt the core value proposition. Conversion went from 4% to 16%.
+At Pikvita, I was deep in the code when I noticed users dropping off on screens designed to convert them. Mixpanel wasn't making sense. We stopped, went back to users, and rebuilt the core value proposition. Conversion went from 4% to 16%.
 
 That instinct — stopping to ask *why* before writing a single line — is what I bring into every product and engineering decision.
 
@@ -46,7 +46,7 @@ That instinct — stopping to ask *why* before writing a single line — is what
 
 2023         React Native Engineer @ GKMIT
              Shipped CRM sync app for 2,000+ Accel team members
-             Built Solana-based crypto wallet module
+             Built a Solana-based crypto wallet module
 
 2023         Lead Mobile Engineer @ Avantor Sciences
              Inventory manager used by 150+ warehouse staff across Asia
