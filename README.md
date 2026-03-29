@@ -1,16 +1,70 @@
-I am a top-rated Web/App developer on Upwork, specializing in the MERN stack with ReactJs for building functional web applications and React Native for hybrid mobile applications. With a strong engineering background and a passion for continuous learning, I am constantly updating my skills and staying at the forefront of the industry.
+# Hey, I'm Aswin 👋
 
-Throughout my career, I have demonstrated a deep understanding of web and mobile development, with a focus on producing creative and responsive applications. I am a self-taught programmer with a proven track record of delivering high-quality solutions. My expertise lies in designing and developing user-facing features using ReactJs and React Native, creating responsive websites, and crafting intuitive UI/UX designs for web and mobile applications.
+Most engineers build what they're told. Most PMs spec what they can't build.  
+I've always been uncomfortable being either of those people.
 
-I take pride in my attention to detail, problem-solving abilities, and dedication to staying up-to-date with the latest technologies and industry trends. Whether it's converting comprehensive layouts into working Screens or adding new features to existing applications, I always strive for excellence. With a strong commitment to customer satisfaction and a collaborative mindset, I am well-equipped to contribute to the success of your projects.
+I'm a **product engineer** — I think before I build, and build what I think. 5 years shipping mobile apps, 2 years running my own startup end to end: code, product, ops, the works.
 
-Let's connect and discuss how I can leverage my skills and experience to bring your ideas to life.
+---
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aswin-Dot&theme=dark)](https://git.io/streak-stats) -->
+## What I'm working on
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aswin-Dot&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [normify](https://github.com/Aswin-Dot/normify) | Bulk image normalization CLI + Web UI — born at Pikvita | Node.js · Python · Sharp · Claude Vision |
+| [startboard](https://github.com/Aswin-Dot/startboard) | The 4 metrics that matter for early-stage consumer apps | React · Recharts |
+| [prd-to-tasks](https://github.com/Aswin-Dot/prd-to-tasks) | PRD in → structured dev tasks out, powered by Claude | React · Anthropic API |
+| [screenshotter](https://github.com/Aswin-Dot/screenshotter) | App Store screenshots without Figma | React · Canvas API · Claude Vision |
+| [RNGames](https://github.com/Aswin-Dot/RNGames) | 15 mobile games, one codebase, each live on the App Store | React Native · Expo · EAS |
 
-<!---
-Aswin-Dot/Aswin-Dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## The thing I've learned building products
+
+> There's no point building something well if you haven't figured out why someone needs it.
+
+At Pikvita I was deep in the code when I noticed users dropping off on screens designed to convert them. Mixpanel wasn't making sense. We stopped, went back to users, rebuilt the core value proposition. Conversion went from 4% to 16%.
+
+That instinct — stopping to ask *why* before writing a single line — is what I bring into every product and engineering decision.
+
+---
+
+## How I work
+
+- **Product first** — I write the PRD before I write the code
+- **AI-accelerated** — sprint cycles from 2 weeks to 2–3 days using Claude for planning, code review, and automation
+- **Full stack mobile** — React Native, NestJS, Firebase, from zero to 100k+ downloads
+
+---
+
+## Background
+
+```
+2024 – now   Founder & CTO @ Pikvita — hyperlocal grocery marketplace, Bangalore
+             Built everything: customer app, delivery app, vendor panel, NestJS backend
+             300+ user interviews · 4% → 16% signup-to-order conversion
+
+2023         React Native Engineer @ GKMIT
+             Shipped CRM sync app for 2,000+ Accel team members
+             Built Solana-based crypto wallet module
+
+2023         Lead Mobile Engineer @ Avantor Sciences
+             Inventory manager used by 150+ warehouse staff across Asia
+
+2021–2023    Solo dev @ Minto
+             0 → 100k+ downloads, 10–15k MAU
+
+2021         React Native Developer @ KIBI Sports
+             First 200–400 athletes onboarded during beta
+```
+
+---
+
+## Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin_Raj-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aswin-raj-195b13203)
+[![Email](https://img.shields.io/badge/Email-aswincse10@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aswincse10@gmail.com)
+
+---
+
+*If you've ever felt the gap between your product vision and what actually gets shipped — that gap is exactly where I work.*
